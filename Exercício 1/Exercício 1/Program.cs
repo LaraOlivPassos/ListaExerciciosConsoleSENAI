@@ -5,5 +5,3 @@ Console.WriteLine($"O valor de A é: {a}");
 Console.WriteLine($"O valor de B é: {b}");
 c = a; a = b; b = c;
 Console.WriteLine($"Agora o valor de A é = {a}, e o valor de B é = {b}");
-
-
