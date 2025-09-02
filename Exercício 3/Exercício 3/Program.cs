@@ -6,4 +6,3 @@ Console.WriteLine("Qual é a largura do retangulo?");
 larg = decimal.Parse(Console.ReadLine()!);
 area = alt * larg;
 Console.WriteLine($"A área é = {area}");
-
