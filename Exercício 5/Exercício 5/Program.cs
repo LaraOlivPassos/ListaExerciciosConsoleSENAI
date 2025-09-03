@@ -21,3 +21,4 @@ Console.WriteLine($"Considerando que o total de eleitores é = {totalEleitores},
 Console.WriteLine($"Votos em branco = {votosBranco}, sendo {percentualBranco}% da votação total\n");
 Console.WriteLine($"Votos nulos = {votosNulo}, sendo {percentualNulo}% da votação total\n");
 Console.WriteLine($"Votos válidos = {votosValidos}, sendo {percentualValidos}% da votação total\n");
+//Fim :)
